@@ -6,11 +6,21 @@
 ### ❗ Kullanıcıya Bildiri
 
 Bu araçla gerçekleştireceğiniz tüm işlemlerin **sorumluluğu tamamen size aittir**.
-Geliştirici, Leafyet Studio ve GitHub platformu hiçbir hukuki veya etik yükümlülük kabul etmez.
+Geliştirici, Yeraltı team ve GitHub platformu hiçbir hukuki veya etik yükümlülük kabul etmez.
 
 ### 🛠️ Geliştirici Hakkında
 
-**Sexettintool**, Leafyet Studio’nun kurucusu **Sexettin** tarafından hazırlanmıştır.
+
+UYARI UYARI UYARI UYARI UYARI
+
+
+BU ARAÇ ÖZEL LİSANSA YAPTIRIMLARA TABİDİR 
+KENDİYMİŞ GİBİ KULLANIM İZİNSİZ KABUL EDİLEMEZ ARAÇ KODLARI OZEL OLARAK İZİNLE DEĞİŞTİRİLİP YENİDEN TASARLANMIŞTIR İLETİŞİM İÇİN ARAÇTA BULUNAN İLETİŞİM MENÜSÜNE BAKABİLİRSİNİZ 
+
+UYARI UYARI UYARI UYARI UYARI 
+
+ 
+**Sexettintool**, Türk hack team yeraltı timi ninkurucusu **AltayHR** tarafından hazırlanmıştır.
 Geliştirme süreci boyunca etik değerlere ve eğitim odaklı kullanıma öncelik verilmiştir.
 
 ---
@@ -29,9 +39,11 @@ Siz de bu tarz araçlar yazmak ya da Python programlama konusunda kendinizi geli
 
 Aşağıdaki komutları **sırayla terminale yapıştırarak** kurulumu gerçekleştirebilirsiniz:
 
+root yetkiniz yoksa apt update de yapabilirsiniz sudo sadece araç içindeki araçları tam kullanmak içindir 
+
 ```bash
-sudo apt update && sudo apt upgrade
-git clone https://github.com/sexettin78/sexettintool
+sudo apt update && sudo apt upgradre
+git clone git clone https://github.com/ThT0AltayHR/Yeralt-_tool.git
 chmod 777 sexettintool
 cd sexettintool
 python3 metfora.py
