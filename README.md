@@ -319,14 +319,7 @@ CVE Numarasından Bilgi Toplama: Circl servisinin API anahtarını kullanarak CV
 
 Aşağıdaki platformlardan geliştirici **Sexettin** ile iletişime geçebilirsiniz:
 
-* 📱 **Telegram (kişisel):** [@FurkanDe](https://t.me/FurkanDe)
-* 📢 **Telegram Kanalı:** [t.me/sexettin](https://t.me/sexettin)
-* 💬 **Discord (kullanıcı adı):** `Sexettin`
-* 🌐 **Discord Sunucusu:** [discord.com/invite/DTN5RSvYvw](https://discord.com/invite/DTN5RSvYvw)
-* 📸 **Instagram:** [@Sexettin](https://instagram.com/Sexettin)
-* 🔍 **Diğer bağlantılar için:** [Google'da ara](https://www.google.com/search?q=sexettin)
-
----
+* 📱 **Telegram @AltayHR
 
 📗 Ayrıca: **“Sıfırdan Uygulamalara Python”** kitabını satın alarak hem destek olabilir hem de bu alandaki bilginizi güçlendirebilirsiniz!
 
