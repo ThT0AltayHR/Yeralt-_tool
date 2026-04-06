@@ -141,7 +141,7 @@ elif(metfora=="3"):
 
 elif(metfora=="4"):
 	os.system("cd ..")
-	os.system("git clone https://github.com/sexettin78/sexettintool.git")
+	os.system("git clone https://github.com/ThT0AltayHR/Yeralt-_tool.git")
 
 elif(metfora=="5"):
 	print("\033[91mBu dizindeki araç ve ilgili her şey kaldırılacak")
