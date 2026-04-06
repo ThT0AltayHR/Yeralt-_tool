@@ -15,17 +15,17 @@ print('''
          __/      \_____   Yaptığınız ve yapacağınız her şeyden siz sorumlusunuz
         /'             |	 hiçbir şekilde sorumluluk kabul edilmez.
          /     /-\     /
-        /      /  \--/	    1-) Kurulum (kök kullanıcı gerektirir)
-       /     /
-      /      /		    2-) İletişim
-     (      >
-    /      >		    3-) Aracı güncelle
-   /     _|
-  /  __/		    4-) Bu dizine aracı yükle
+        /  ı   /  \--/	    1-) Kurulum (kök kullanıcı gerektirir)
+       /  t   /
+      / l    /		    2-) İletişim
+     ( a    >
+    / r    >		    3-) Aracı güncelle
+   / e   _|
+  / y __/		    4-) Bu dizine aracı yükle
  /_/
 			    5-) Bu dizinden aracı sil
 			   
-			    6-) Sexettintool'a giriş yap
+			    6-) Yeraltıtool'a giriş yap
 
                             7-) Bu araç içindekiler ne işe yarıyor?
                             
@@ -126,13 +126,12 @@ if(metfora=="1"):
 
 elif(metfora=="2"):
 	print('''
-Telegram = @furkande
-Discord = Sexettin
-Telegram Genel Kanal = t.me/sexettin
-Instagram = Sexettin
-Youtube = Sexettin
-Discord Sunucusu = https://discord.com/invite/DTN5RSvYvw
-Github = sexettin78
+Telegram = @AltayHR
+Discord = AltayHR
+Telegram Genel Kanal = t.me/AltayHR
+Instagram = Altay_DSX
+Youtube = @Yeraltı_Team
+Github = ThT0AltayHR
 	''')
 
 elif(metfora=="3"):
